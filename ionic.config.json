@@ -1,6 +1,6 @@
 {
   "name": "nutsineeshop",
-  "app_id": "",
+  "app_id": "5dc5b332",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
